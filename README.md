@@ -1,6 +1,6 @@
 # CoronaSafe Engineering Fellowship Test Problem
 
-### It is a PYthon Based TODOList CLI 
+### It is a Python Based TODOList CLI 
 
 In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
 
